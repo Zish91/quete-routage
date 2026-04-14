@@ -1,7 +1,7 @@
 # quete-routage
 
 
-![Maquette Packet Tracer](./Capture d’écran du 2026-04-14 23-14-28.png)
+![Maquette Packet Tracer](./screenshotroutage.png)
 
 
 
